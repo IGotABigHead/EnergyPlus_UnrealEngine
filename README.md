@@ -1,3 +1,2 @@
-# NRBDF_DigitalTwin
-
-Developed with Unreal Engine 5
+# EnergyPlus_UnrealEngine
+The UnrealEngine code for the DualTwin
